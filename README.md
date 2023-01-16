@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Graphic designer
 ----------------------------------
 
-Web developer and graduate computer science student, seeking for the position Junior Full-stack Web Development to hone skills and contribute expertise in a corporate environment. Coming with great teamwork and interpersonal skills and familiarity with several programming languages.
+Web developer and graduate computer science student. Coming with great teamwork and interpersonal skills and familiarity with several programming languages.
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [abenezeerfikadu76@gmail.com](mailto:abenezeerfikadu76@gmail.com)
