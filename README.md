@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abenezer Fikadu
 =======================================================================================================================================
 
-Web Developer and Graphic designer
+UI/UX and Graphic Designer
 ----------------------------------
 
-Web developer and graduate computer science student. Coming with great teamwork and interpersonal skills and familiarity with several programming languages.
+Flutter developer and graduate computer science student. Coming with great teamwork and interpersonal skills and familiarity with several programming languages.
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [abenezeerfikadu76@gmail.com](mailto:abenezeerfikadu76@gmail.com)
